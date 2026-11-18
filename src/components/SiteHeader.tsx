@@ -44,7 +44,7 @@ export function SiteHeader() {
             <SearchIcon className="pointer-events-none absolute top-1/2 left-3 size-5 -translate-y-1/2 text-ss-muted" />
             <input
               type="search"
-              placeholder="Search for classes"
+              placeholder="Search classes, digital products, teachers, and more."
               className="h-10 w-full rounded border border-ss-chip bg-white pr-3 pl-10 text-[15px] text-ss-ink outline-none transition focus:border-ss-purple focus:ring-1 focus:ring-ss-purple"
             />
           </label>

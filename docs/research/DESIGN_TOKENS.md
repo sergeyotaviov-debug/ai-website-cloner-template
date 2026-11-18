@@ -15,7 +15,7 @@ Font note: live site uses licensed **GT Walsheim Pro**. Clone uses free **Outfit
 | deep teal | `#002333` | — | Secondary navy text |
 | muted text | `#394649` | `rgb(57,70,73)` | Borders on SSO buttons, secondary |
 | chip grey | `#dcdee1` | — | Chips / hairlines |
-| sky | `#24c2f2` | — | Checkmark circles |
+| sky | `#24c2f2` | — | Join hero band, active category pill, checkmarks |
 | ribbon green | `#08d078` | — | Hero ribbon stroke |
 | ribbon cyan | `#1cc7d8` | — | Hero ribbon stroke |
 | ribbon magenta | `#ff119d` | — | Hero ribbon stroke |

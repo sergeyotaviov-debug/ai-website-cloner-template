@@ -3,10 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 import { PlayBadgeIcon } from "@/components/icons";
-import {
-  categories,
-  classesByCategory,
-} from "@/lib/content";
+import { categories, classesByCategory } from "@/lib/content";
 import type { CategoryId, ClassCard } from "@/types/skillshare";
 import { cn } from "@/lib/utils";
 
@@ -15,13 +12,13 @@ export function PopularClasses() {
   const cards = classesByCategory[active] ?? classesByCategory.featured;
 
   return (
-    <section className="bg-white py-14 sm:py-20">
+    <section className="bg-ss-ink py-14 text-white sm:py-20">
       <div className="ss-container">
         <div className="max-w-[640px]">
-          <h2 className="text-[32px] leading-[1.15] font-bold tracking-[-0.02em] text-black sm:text-[40px]">
+          <h2 className="text-[32px] leading-[1.15] font-bold tracking-[-0.02em] sm:text-[40px]">
             Explore Popular Classes
           </h2>
-          <h2 className="text-[32px] leading-[1.15] font-bold tracking-[-0.02em] text-black sm:text-[40px]">
+          <h2 className="text-[32px] leading-[1.15] font-bold tracking-[-0.02em] sm:text-[40px]">
             on Skillshare
           </h2>
         </div>
@@ -37,8 +34,8 @@ export function PopularClasses() {
                 className={cn(
                   "shrink-0 rounded-full px-4 py-2 text-[14px] font-bold transition",
                   isActive
-                    ? "bg-ss-ink text-white"
-                    : "bg-transparent text-ss-ink hover:bg-[#f2f3f4]"
+                    ? "bg-[#24c2f2] text-ss-ink"
+                    : "bg-transparent text-white/85 hover:bg-white/10"
                 )}
               >
                 {tab.label}
@@ -71,7 +68,7 @@ function ClassCardItem({ card, index }: { card: ClassCard; index: number }) {
         index === 3 && "fade-up-delay-3"
       )}
     >
-      <div className="relative aspect-video overflow-hidden rounded-lg bg-[#eee]">
+      <div className="relative aspect-video overflow-hidden rounded-lg bg-[#232424]">
         <Image
           src={card.image}
           alt=""
@@ -88,15 +85,15 @@ function ClassCardItem({ card, index }: { card: ClassCard; index: number }) {
           <PlayBadgeIcon />
         </span>
       </div>
-      <div className="mt-3 flex items-center gap-3 text-[12px] text-ss-muted">
+      <div className="mt-3 flex items-center gap-3 text-[12px] text-white/65">
         <span>{card.students}</span>
         <span aria-hidden>·</span>
         <span>{card.duration}</span>
       </div>
-      <h3 className="mt-1 line-clamp-2 text-[15px] leading-5 font-semibold text-ss-ink">
+      <h3 className="mt-1 line-clamp-2 text-[15px] leading-5 font-semibold text-white">
         {card.title}
       </h3>
-      <p className="mt-1 text-[13px] text-ss-muted">{card.teacher}</p>
+      <p className="mt-1 text-[13px] text-white/65">{card.teacher}</p>
     </a>
   );
 }
