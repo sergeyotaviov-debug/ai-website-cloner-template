@@ -1,41 +1,32 @@
 # Target Website
 
 ## URL
-<!-- Replace with the URL of the website you're reverse-engineering -->
-https://example.com
+https://www.skillshare.com/en/join/ps?coupon=GOOGB30DAYSFREE&locale=en
 
 ## Scope
 
 ### Pages to Replicate
-<!-- List every page you want to rebuild. Be specific. -->
-- [ ] Home page
-- [ ] (add more pages here)
+- [x] Skillshare join / paid-search landing page (`/en/join/ps`)
 
 ### Fidelity Level
-<!-- Choose one -->
-- [ ] **Pixel-perfect** — exact match in colors, spacing, typography, animations
-- [ ] **High fidelity** — visually similar, same layout and feel, minor deviations OK
-- [ ] **Structural** — same layout and components, custom styling acceptable
+- [x] **Pixel-perfect** — exact match in colors, spacing, typography, animations
 
 ### In Scope
-<!-- What you're building -->
 - Visual layout and styling
 - Component structure and interactions
 - Responsive design
-- Mock data for demo purposes
+- Real content and assets from the target page
+- Coupon / promo messaging shown on the landing page
 
 ### Out of Scope
-<!-- What you're NOT building -->
 - Real backend / database
-- Authentication
+- Authentication / actual signup flow
+- Payment processing
 - Real-time features
-- SEO optimization
-- Accessibility audit (unless specifically needed)
+- Full Skillshare app beyond this join landing page
 
 ## Why
-<!-- Brief explanation of why you're cloning this site -->
-(Fill in your reason — portfolio piece, learning exercise, demo, template for custom features, etc.)
+Clone the Skillshare join landing page as a pixel-perfect Next.js recreation for portfolio / learning / design study.
 
 ## Customization Plans
-<!-- After the base emulation, what changes do you want to make? -->
-- (List planned modifications or say "none — pure emulation")
+- none — pure emulation

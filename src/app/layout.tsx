@@ -1,20 +1,32 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Outfit } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const outfit = Outfit({
+  variable: "--font-outfit",
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Skillshare - Online Classes for Creatives",
+  description:
+    "Creative classes taught by the best creative pros. Thousands of creative classes. 1 free month. Cancel anytime.",
+  icons: {
+    icon: [
+      { url: "/seo/favicon.ico" },
+      { url: "/seo/favicon.svg", type: "image/svg+xml" },
+      { url: "/seo/favicon-32.png", sizes: "32x32", type: "image/png" },
+    ],
+    apple: [{ url: "/seo/favicon-180.png", sizes: "180x180" }],
+  },
+  openGraph: {
+    title: "Skillshare - Online Classes for Creatives",
+    description:
+      "Creative classes taught by the best creative pros. Get 1 free month of Skillshare.",
+    images: [{ url: "/seo/og-image.jpg" }],
+  },
 };
 
 export default function RootLayout({
@@ -23,11 +35,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en" className={`${outfit.variable} h-full`}>
+      <body className="min-h-full flex flex-col font-sans text-ss-ink">
+        {children}
+      </body>
     </html>
   );
 }

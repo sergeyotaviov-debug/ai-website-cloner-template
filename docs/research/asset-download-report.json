@@ -1,0 +1,330 @@
+{
+  "ok": 54,
+  "fail": [],
+  "results": [
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/favicons/favicon.ico",
+      "dest": "seo/favicon.ico",
+      "bytes": 15406
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/favicons/favicon.svg",
+      "dest": "seo/favicon.svg",
+      "bytes": 1250
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/favicons/favicon-32.png",
+      "dest": "seo/favicon-32.png",
+      "bytes": 1398
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/favicons/favicon-180.png",
+      "dest": "seo/favicon-180.png",
+      "bytes": 7391
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/favicons/favicon-192.png",
+      "dest": "seo/favicon-192.png",
+      "bytes": 8071
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F480158f2aff04ea59ce9808bb3737311",
+      "dest": "seo/og-image.jpg",
+      "bytes": 65544
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F86050e9b7ba14fb495b918bd427866ec?format=webp&width=800",
+      "dest": "images/hero/tablet-drawing.webp",
+      "bytes": 8964
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F2169995105cd452091c277417a6a0ec8?format=webp&width=800",
+      "dest": "images/hero/purple-hair-illustration.webp",
+      "bytes": 15436
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2Fb351b14556f34db993fd1d2043244569?format=webp&width=800",
+      "dest": "images/hero/woman-red-shirt.webp",
+      "bytes": 8978
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F62244496ebef40a19a5f187345736123",
+      "dest": "images/hero/ribbon-stroke.png",
+      "bytes": 480
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F368e02b59dd04903be1a789fcbbc80ea",
+      "dest": "images/hero/hero-bg-texture.png",
+      "bytes": 578
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2Fe3ee5983c7d54291958e6e2b659923f3",
+      "dest": "images/hero/hero-accent.png",
+      "bytes": 557
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2Fb30f2778a5414743bc28c8c9593381b8",
+      "dest": "images/ui/skillshare-wordmark.png",
+      "bytes": 3862
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/graphic_design.webp",
+      "dest": "images/categories/graphic_design.webp",
+      "bytes": 50692
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/illustration.webp",
+      "dest": "images/categories/illustration.webp",
+      "bytes": 47494
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/animation.webp",
+      "dest": "images/categories/animation.webp",
+      "bytes": 41938
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/film_video.webp",
+      "dest": "images/categories/film_video.webp",
+      "bytes": 50816
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/freelance.webp",
+      "dest": "images/categories/freelance.webp",
+      "bytes": 44548
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/ui_ux_design.webp",
+      "dest": "images/categories/ui_ux_design.webp",
+      "bytes": 26190
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/productivity.webp",
+      "dest": "images/categories/productivity.webp",
+      "bytes": 34054
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/photography.webp",
+      "dest": "images/categories/photography.webp",
+      "bytes": 33136
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/fine_art.webp",
+      "dest": "images/categories/fine_art.webp",
+      "bytes": 52716
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/category_carousel/320x400/marketing.webp",
+      "dest": "images/categories/marketing.webp",
+      "bytes": 47680
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/c227aee2f172d06354b0913d8beb4eb9/original",
+      "dest": "images/classes/procreate-kickstart.jpg",
+      "bytes": 433913
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/5c03d7d3748360229b36ccca4a91d9c4/original",
+      "dest": "images/classes/canva-social.jpg",
+      "bytes": 201250
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/16adbf2bb764e627e50abfe55a9dae30/original",
+      "dest": "images/classes/watercolour-landscapes.jpg",
+      "bytes": 862622
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/2fd01a75604e4f81e115b4baaf005786/original",
+      "dest": "images/classes/figma-advanced.jpg",
+      "bytes": 414153
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/3cf2771682c79357834c2579a2a73116/original",
+      "dest": "images/classes/chatgpt-creatives.jpg",
+      "bytes": 137144
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/c69b0a6739ac2a05a60637b593efa6f0/original",
+      "dest": "images/classes/how-to-draw.jpg",
+      "bytes": 1023359
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/6afe10afdc498ffda294211907d77be1/original",
+      "dest": "images/classes/premiere-beginners.jpg",
+      "bytes": 267633
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/uploads/video/thumbnails/aa9959938f6150ad7ffbba87f6f3a0c7/original",
+      "dest": "images/classes/iphone-photography.jpg",
+      "bytes": 249000
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F1898aaa048ad43abb0a8fc2c7fe30343?format=webp",
+      "dest": "images/teachers/lisa-bardot.webp",
+      "bytes": 92110
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2Ff319a24e55374b248fe869f5a17e1e9c?format=webp",
+      "dest": "images/teachers/daniel-scott.webp",
+      "bytes": 72426
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F55ae3bd106724f82917e37d92d20e832?format=webp",
+      "dest": "images/teachers/derek-elliot.webp",
+      "bytes": 100766
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F9966984835d1489db2cf117c57524eab?format=webp",
+      "dest": "images/teachers/aaron-draplin.webp",
+      "bytes": 76656
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F75c0cf42037b4d9b8f808b3c0ea4c1c0",
+      "dest": "images/teachers/zaneena-nabeel.webp",
+      "bytes": 266878
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F5a03c01cc81344edaedef3b9d91c85b6",
+      "dest": "images/teachers/emonee-larussa.webp",
+      "bytes": 153910
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F6244f1265ebc4b9a96df5e83ffe516e9?format=webp",
+      "dest": "images/teachers/brent-eviston.webp",
+      "bytes": 63096
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F95e347f1e48c4e4fa3f75340607852ca?format=webp",
+      "dest": "images/teachers/jordy-vandeput.webp",
+      "bytes": 106922
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F192780c3834e4efcae1ebcf233e6d9f3",
+      "dest": "images/feed/feed-1.png",
+      "bytes": 1749
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F2c52ddcfa998478b902aa258b12ec1ce",
+      "dest": "images/feed/feed-2.png",
+      "bytes": 2360
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F60fa93265ea448578fbbc62ec3f01b36",
+      "dest": "images/feed/feed-3.png",
+      "bytes": 2044
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2Fe6ed42d6f2a840b893261cd260a617a1",
+      "dest": "images/feed/feed-4.png",
+      "bytes": 1076304
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2Ffe6ca0488ef54cef93cfcd17efe4ab14",
+      "dest": "images/ui/testimonial-1.png",
+      "bytes": 926
+    },
+    {
+      "ok": true,
+      "url": "https://cdn.builder.io/api/v1/image/assets%2F8d23724fcd03491988e72adbef2f87fc%2F26f53e79820f444aa2207f7e416d8ed6",
+      "dest": "images/ui/testimonial-2.png",
+      "bytes": 918
+    },
+    {
+      "ok": true,
+      "url": "https://static-web-prod.skillshare.com/_next/static/images/skillshare_for_teams-c4a85c8c5a4eef0fee7c493669965f5b.webp",
+      "dest": "images/teams/skillshare-for-teams.webp",
+      "bytes": 18114
+    },
+    {
+      "ok": true,
+      "url": "https://static-web-prod.skillshare.com/_next/static/images/featured_in_logos-300fb6165975ac4e4bcd58a9b6c374cd.webp",
+      "dest": "images/press/featured-in-logos.webp",
+      "bytes": 21430
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/instagram.svg",
+      "dest": "images/social/instagram.svg",
+      "bytes": 1503
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/tiktok-logo.svg",
+      "dest": "images/social/tiktok-logo.svg",
+      "bytes": 1964
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/pinterest.svg",
+      "dest": "images/social/pinterest.svg",
+      "bytes": 1203
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/twitter.svg",
+      "dest": "images/social/twitter.svg",
+      "bytes": 959
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/facebook.svg",
+      "dest": "images/social/facebook.svg",
+      "bytes": 592
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/linkedin.svg",
+      "dest": "images/social/linkedin.svg",
+      "bytes": 889
+    },
+    {
+      "ok": true,
+      "url": "https://static.skillshare.com/assets/images/loh/social-icons/youtube.svg",
+      "dest": "images/social/youtube.svg",
+      "bytes": 965
+    }
+  ]
+}
